@@ -1,5 +1,5 @@
 # wwiii
-Projeto aberto para cyber-attack para WWIII
+Open project for cyber-attack for WWIII
 
 Attack Russian Company
 * Script: russian/companies/extract/stage00.py      GET URL from companies Russian
