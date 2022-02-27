@@ -1,4 +1,5 @@
 #!/usr/local/python3
+# simple DoS
 import sys, os, time, requests
 import threading
 
